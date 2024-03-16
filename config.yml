@@ -1,4 +1,4 @@
 baseURL: "https://jandal487.github.io/jandalai/"
 languageCode: en-US
 title: jandalai
-theme: PaperMod
+theme: ["PaperMod"]
